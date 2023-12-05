@@ -19,7 +19,7 @@ setuptools.setup(
     long_description = long_description,
     long_description_content = 'text/markdown',
     url = f"https://github.com/{Author_Name}/{Repo_Name}",
-    project_url = {"Bug Tracker":f"https://github.com/{AUTHOR_NAME}/{REPO_NAME}"},
+    project_url = {"Bug Tracker":f"https://github.com/{Author_Name}/{Repo_Name}"},
     package_dir = {"":"src"},
     packages=setuptools.find_package(where='src')
 
