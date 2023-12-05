@@ -39,8 +39,8 @@ list_of_files=[
    "setup.cfg",
    "pyproject.toml",
    "tox.ini",
-   "research/trials.ipynb", 
-                ]
+   "research/trials.ipynb",
+   "README.md"]
 
 for file_path in list_of_files:
     file_path = Path(file_path)
