@@ -3,7 +3,6 @@ from pathlib import Path
 import logging
 
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]: %(message)s')
-
 package_name = 'CNNClassifier'
 
 list_of_files=[
